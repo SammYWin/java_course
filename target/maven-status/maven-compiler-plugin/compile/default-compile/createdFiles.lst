@@ -1,0 +1,10 @@
+com\labs\db.class
+com\labs\servlet.class
+com\labs\utils\HibernateSessionFactoryUtil.class
+com\labs\dao\hotel_reviewDao.class
+com\labs\models\hotel.class
+com\labs\dao\userDao.class
+com\labs\models\user.class
+com\labs\services\dbService.class
+com\labs\dao\hotelDao.class
+com\labs\models\hotel_review.class

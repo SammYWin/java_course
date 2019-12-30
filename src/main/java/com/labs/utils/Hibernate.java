@@ -19,7 +19,7 @@ public class Hibernate {
         properties.put("hibernate.show_sql", "true");
 
         properties.put("hibernate.connection.driver_class", "org.h2.Driver");
-        //СВОЙ ПУТЬ К ФАЙЛУ БД, ОН В ПАПКЕ С ПРОЕКТОМ + ПОМЕНЯТЬ ПУТЬ СПРАВА В НАСТРОЙКАХ БД 
+        //ЗДЕСЬ НАДО ПРОПИСАТЬ СВОЙ ПУТЬ К ФАЙЛУ БД, ОН В ПАПКЕ С ПРОЕКТОМ + ПОМЕНЯТЬ ПУТЬ СПРАВА В НАСТРОЙКАХ БД
         properties.put("hibernate.connection.url", "jdbc:h2:H://4 курс//Java//Lab5_final//java_db");
         properties.put("hibernate.connection.username", "sa");
         properties.put("hibernate.connection.password", "");
